@@ -3324,14 +3324,5 @@ input, select, textarea {
 			.button {
 				padding: 0;
 			}
-		/* Add spacing below project images */
-.features article .image.main {
-    margin-bottom: 2em; /* Adjust this value as needed. 1em is roughly the height of a capital M. */
-}
-
-/* Alternatively, you could add margin to the inner content of the article */
-.features article .inner {
-    padding-top: 1.5em; /* Add some padding to the top of the text block if preferred */
-}
 
 	}

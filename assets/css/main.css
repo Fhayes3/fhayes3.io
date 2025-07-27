@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 10em 0 2.25em 0;
+		margin: 5em 0 2.25em 0;
 	}
 	.intro {
     	font-size: 1.25em !important;
@@ -2211,6 +2211,7 @@ input, select, textarea {
 
 			.image.main img {
 				border-radius: 0;
+				width: 100%;
 			}
 
 /* List */

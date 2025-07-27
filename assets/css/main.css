@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 5em 0 2.25em 0;
+		margin: 1.5em 0 2.25em 0;
 	}
 	.intro {
     	font-size: 1.25em !important;
@@ -1791,7 +1791,7 @@ input, select, textarea {
 
 	header.major h2 {
 		color: #0B5FB3;
-		font-size: 3.5em;
+		font-size: 3.0em;
 	}
 
 		header.major h2 + p {

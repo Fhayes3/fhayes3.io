@@ -3335,7 +3335,9 @@ input, select, textarea {
 	border: 4px solid #B37000;
     border-radius: 0.35em;
     padding: 1.5em 1.75em;
-    margin: 2em 0;
+ 	margin: 0 auto;
+	max-width: calc(100% - 4.5em);
+	width: 45em;
 }
 
 .recent-update h3 {

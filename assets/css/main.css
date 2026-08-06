@@ -3343,11 +3343,13 @@ input, select, textarea {
 .recent-update h3 {
     color: #FFC857;
     margin-top: 0;
+	margin-left: 2em;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
 }
 
 .recent-update p {
     color: #ffffff;
+	margin-left: 1em;
 }
 
 .recent-update strong {
@@ -3355,7 +3357,8 @@ input, select, textarea {
 }
 
 .recent-update .actions {
-    margin-bottom: 0;
+    margin-bottom: 2em;
+	margin-left: 2em;
 }
 
 /* Keep buttons readable on the blue background */

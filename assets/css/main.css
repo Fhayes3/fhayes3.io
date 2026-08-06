@@ -3372,7 +3372,8 @@ input, select, textarea {
 .recent-update .button:hover {
     opacity: 0.9;
 }
-  .recent-update box-shadow: 
+  .recent-update{ 
+	box-shadow: 
     0 0 0 4px #ffffff, 
     0 0 0 8px #B37000;
 }

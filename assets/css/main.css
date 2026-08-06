@@ -2881,7 +2881,7 @@ input, select, textarea {
 				}
 
 				#footer .copyright li a {
-					#color: inherit;
+					color: inherit;
 				}
 
 /* XLarge */

@@ -3332,10 +3332,10 @@ input, select, textarea {
     background: #0B5FB3;
     color: #ffffff;
     border: none;
+	border: 4px solid #B37000;
     border-radius: 0.35em;
     padding: 1.5em 1.75em;
     margin: 2em 0;
-	box-shadow: 4 4 4 4px #B37000;
 }
 
 .recent-update h3 {
